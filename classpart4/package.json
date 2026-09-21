@@ -2,7 +2,7 @@
   "name": "classpart4",
   "version": "1.0.0",
   "type": "module",
-  "main": "mongo.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "node --watch index.js",
